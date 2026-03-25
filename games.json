@@ -3,7 +3,7 @@
   "devices": {
     "MRBLACKLICORICE": {
       "name": "MRBLACKLICORICE",
-      "last_seen": "2026-03-25T18:02:50.233396"
+      "last_seen": "2026-03-25T18:04:25.793438"
     }
   },
   "games": {
@@ -14,7 +14,7 @@
           "exe_path": "C:\\Users\\giris\\Desktop\\Games\\Hollow Knight\\hollow_knight.exe",
           "save_path": "C:\\Users\\giris\\AppData\\LocalLow\\Team Cherry\\Hollow Knight",
           "enabled": true,
-          "updated_at": "2026-03-25T18:02:50.233396"
+          "updated_at": "2026-03-25T18:04:25.793438"
         }
       }
     }
