@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     8059 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.122 seconds
+- Completed reload, in  0.138 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -23,7 +23,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.131400 ms
+UnloadTime: 0.814800 ms
 Graphics tier changed to High
 
 Steam initializing
@@ -41,14 +41,14 @@ Restored language code 'EN'
 
 
 Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3814.
-Total: 3.098900 ms (FindLiveObjects: 0.291100 ms CreateObjectMapping: 0.382600 ms MarkObjects: 2.379600 ms  DeleteObjects: 0.044800 ms)
+Total: 2.176800 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.117400 ms MarkObjects: 1.728400 ms  DeleteObjects: 0.038000 ms)
 
 Steam stats received.
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 6.289300 ms
+UnloadTime: 6.030100 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -193,12 +193,12 @@ pd.maxHealth: 9 pd.maxHealthBase: 7
 
 
 Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 46171.
-Total: 155.885200 ms (FindLiveObjects: 2.817900 ms CreateObjectMapping: 1.610900 ms MarkObjects: 151.291300 ms  DeleteObjects: 0.164800 ms)
+Total: 146.347600 ms (FindLiveObjects: 5.226400 ms CreateObjectMapping: 2.356000 ms MarkObjects: 138.604700 ms  DeleteObjects: 0.159700 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 72e4 -> priority: 1 
-  Thread -> id: 6f98 -> priority: 1 
-  Thread -> id: 7074 -> priority: 1 
-  Thread -> id: 23bc -> priority: 1 
+  Thread -> id: 5814 -> priority: 1 
+  Thread -> id: 61d0 -> priority: 1 
+  Thread -> id: 6f44 -> priority: 1 
+  Thread -> id: 5788 -> priority: 1 
 Shutting down Steam API.
 
