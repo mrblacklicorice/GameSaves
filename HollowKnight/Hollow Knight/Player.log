@@ -23,7 +23,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.343200 ms
+UnloadTime: 2.206000 ms
 Graphics tier changed to High
 
 Steam initializing
@@ -41,14 +41,14 @@ Restored language code 'EN'
 
 
 Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3814.
-Total: 2.044400 ms (FindLiveObjects: 0.244300 ms CreateObjectMapping: 0.106000 ms MarkObjects: 1.661200 ms  DeleteObjects: 0.032200 ms)
+Total: 1.800400 ms (FindLiveObjects: 0.282400 ms CreateObjectMapping: 0.193700 ms MarkObjects: 1.294000 ms  DeleteObjects: 0.029700 ms)
 
 Steam stats received.
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 4.572800 ms
+UnloadTime: 6.473800 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -193,12 +193,12 @@ pd.maxHealth: 9 pd.maxHealthBase: 7
 
 
 Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 46171.
-Total: 149.039700 ms (FindLiveObjects: 3.430500 ms CreateObjectMapping: 1.590000 ms MarkObjects: 143.870100 ms  DeleteObjects: 0.148600 ms)
+Total: 173.301000 ms (FindLiveObjects: 3.119800 ms CreateObjectMapping: 1.501100 ms MarkObjects: 168.527800 ms  DeleteObjects: 0.151800 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 72dc -> priority: 1 
-  Thread -> id: 6e90 -> priority: 1 
-  Thread -> id: 5ecc -> priority: 1 
-  Thread -> id: 6124 -> priority: 1 
+  Thread -> id: 5ef8 -> priority: 1 
+  Thread -> id: 6984 -> priority: 1 
+  Thread -> id: 54c4 -> priority: 1 
+  Thread -> id: 62d8 -> priority: 1 
 Shutting down Steam API.
 
